@@ -1,6 +1,6 @@
 package JavaAlgos;
 
-public class bs {
+public class binarysearch {
     public static void main(String[] args) {
         int[] haystack = {3,5,6,8,9,10,14,17};
         int needle = 14;
