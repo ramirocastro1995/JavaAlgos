@@ -37,7 +37,7 @@ class BinaryTree{
         if(node == null){
             return;
         }
-        //print data node
+        //print data node |PREORDER|s
         System.out.println(node.key + " ");
         //recur in left subtree
         printPreorder(node.left);
